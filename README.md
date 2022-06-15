@@ -1,4 +1,7 @@
-### Hi there 👋
+### Under construction
+
+![funny](https://user-images.githubusercontent.com/56736430/173908334-be755aa7-bf80-45da-a506-a3899557f65a.gif)
+
 
 <!--
 **ColeHorvat/ColeHorvat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
