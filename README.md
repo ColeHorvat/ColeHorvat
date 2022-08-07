@@ -21,7 +21,7 @@ const cole = {
 
 <p align="left"> <a href="https://twitter.com/horvatcole" target="blank"><img src="https://img.shields.io/twitter/follow/horvatcole?logo=twitter&style=for-the-badge" alt="horvatcole" /></a> </p>
 
-- 🌱 I’m currently learning **Azure Serverless & Ruby On Rails**
+- 🌱 I’m currently learning **Ruby On Rails**
 
 - 👨‍💻 All of my projects are available at [https://www.colehorvat.com/](https://www.colehorvat.com/)
 
