@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cole Horvat</h1>
+<h1 align="center">Hi 👋, I'm Cole</h1>
 <h3 align="center">I'm a full-stack web developer and game developer who likes to solve problems. I love building interactive experiences that people can enjoy!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colehorvat&label=Visitors&color=0e75b6&style=flat" alt="colehorvat" /> </p>
