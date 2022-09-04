@@ -9,7 +9,7 @@ const cole = {
   interests: ["Video Games", "Urban Planning", "Singing", "Theatre"],
   education: {
     school: "Thompson Rivers University",
-    gradDate: "Fall 2022"
+    gradDate: "October 2022"
   },
   location: {
     city: "Vancouver",
