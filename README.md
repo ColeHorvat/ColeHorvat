@@ -12,7 +12,7 @@ const cole = {
     gradDate: "October 2022"
   },
   location: {
-    city: "Vancouver",
+    city: "Langley",
     province: "British Columbia",
     country: "Canada"
   }
