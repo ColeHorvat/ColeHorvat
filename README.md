@@ -12,7 +12,7 @@ const cole = {
     degree: "Bachelor of Computing Science"
   },
   location: {
-    city: "Langley",
+    city: "Vancouver",
     province: "British Columbia",
     country: "Canada"
   }
